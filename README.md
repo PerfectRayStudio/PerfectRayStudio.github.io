@@ -1,5 +1,5 @@
 # Privacy Policy
-An adventure game for everyone.
+The game is an adventure for everyone. At the stage of active development
 ____
 # Platforms and Service
 + Android 
